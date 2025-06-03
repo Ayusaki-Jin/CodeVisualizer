@@ -1,12 +1,12 @@
 # 🎯 CODE VISUALIZER - CLI to GUI Revolution
 
 **Turn AI-generated code into interactive visual tiles!**
-
 ![Code Visualizer Demo](./images/Demo.png)
 
-![ICode Visualizer Demo1](./images/Demo1.png)
+![Code Visualizer Demo - Expanded](./images/Demo1.png)
 
-![Code Visualizer Demo2](./images/Demo2.png)
+![Code Visualizer Demo - Edit Dialog](./images/Demo2.png)
+
 
 ## 💡 The Problem
 - AI generates 200+ lines of complex code
