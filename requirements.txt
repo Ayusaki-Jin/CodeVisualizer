@@ -1,0 +1,4 @@
+echo "# Code Visualizer Dependencies" > requirements.txt
+echo "" >> requirements.txt  
+echo "# GUI framework (built-in with Python)" >> requirements.txt
+echo "# tkinter - built-in" >> requirements.txt
