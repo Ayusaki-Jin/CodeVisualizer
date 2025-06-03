@@ -1,0 +1,36 @@
+# 🎯 CODE VISUALIZER - CLI to GUI Revolution
+
+**Turn AI-generated code into interactive visual tiles!**
+
+## 💡 The Problem
+- AI generates 200+ lines of complex code
+- Beginners can't understand "what does what"
+- Hard to communicate specific modifications
+
+## 🚀 The Solution
+- **Visual Tiles**: Each method/class becomes a clickable tile
+- **Natural Instructions**: "The back button functionality isn't working properly"
+- **Code Discovery**: Click to reveal/hide implementation details
+
+## ✨ Features
+- 📦 **Tile-based Code Visualization**
+- 🔍 **Expandable Code Details**
+- ✏️ **Direct Edit Requests**
+- 🤖 **AI Integration Ready**
+
+## 🎯 Demo
+python code_visualizer.py
+
+text
+
+## 🎮 How It Works
+1. AI generates code with descriptive comments
+2. Code gets automatically divided into tiles
+3. Users see "File Reading", "Data Processing" etc.
+4. Click tiles to see actual implementation
+5. Request modifications in natural language
+
+---
+**The future of code comprehension is visual! 📊**
+
+https://github.com/Ayusaki-Jin/CodeVisualizer.git
